@@ -1,94 +1,35 @@
-# Hi, I'm Oleksandr Barskyi 👋
+## Hi, I am Oleksandr
 
-**Senior Full-Stack Engineer** focused on **AI-powered products**,
-modern web applications, and scalable backend systems.
+React and React Native engineer based in Kharkiv, Ukraine. I build products end
+to end — mobile apps that ship to the App Store, Next.js web apps that survive
+real traffic, and the Node.js glue in between. Writing software since 2018,
+React commercially since 2021.
 
-## 🚀 About Me
+I work 18:00-02:00 EET, a full 8-hour overlap with the US East Coast business
+day, as an independent contractor. No visa sponsorship needed.
 
--   💻 5+ years of experience building production web & mobile
-    applications
--   🤖 Passionate about AI, LLM integrations, and AI-assisted
-    development
--   ⚛️ React • Next.js • TypeScript • Node.js
--   📱 React Native / Expo
--   🔥 Firebase • PostgreSQL • REST APIs
--   ☁️ AWS • Docker • CI/CD
--   🌍 Open to remote opportunities worldwide
+**Currently**
 
-------------------------------------------------------------------------
+- Building React and React Native finance workflows: onboarding, transactions, subscriptions, notifications
+- PhD candidate in Computer Science, formal verification with dependent types
 
-## 🛠 Tech Stack
+**Stack I reach for**
 
-### Frontend
+`TypeScript` `React` `React Native` `Expo` `Next.js` `Node.js` `GraphQL` `REST`
+`Firebase` `PostgreSQL` `Docker` `Vercel` `Tailwind CSS` `Shopify Liquid`
 
--   React
--   Next.js
--   TypeScript
--   JavaScript (ES6+)
--   HTML5
--   CSS3
--   Tailwind CSS
+**Shipped**
 
-### Backend
+- [SizeMatch](https://apps.apple.com/ca/app/sizematch/id6443542455) — iOS retail sizing app, live on the App Store
+- BudgetYid / JoyBudget — React and React Native personal finance product
+- Shopify storefronts — Liquid themes, product cards, sale-pricing states, responsive media
 
--   Node.js
--   Express
--   Firebase
--   PostgreSQL
--   MySQL
--   MongoDB
+Pinned repositories below show the code I can share publicly.
 
-### Mobile
+**Reach me**
 
--   React Native
--   Expo
+- Email: oleksandr.umka.barskyi@gmail.com
+- LinkedIn: [oleksandr-barskyi](https://www.linkedin.com/in/oleksandr-barskyi)
+- Site: [about-me-alpha-henna.vercel.app](https://about-me-alpha-henna.vercel.app)
 
-### AI
-
--   OpenAI API
--   LLM Integrations
--   Prompt Engineering
--   AI-assisted Development
-
-### Tools
-
--   Git
--   GitHub
--   Docker
--   Vercel
--   Figma
-
-------------------------------------------------------------------------
-
-## 🎯 Current Focus
-
--   AI-powered SaaS
--   Full-Stack Development
--   Healthcare Tech
--   Browser Applications
--   High-performance Frontend
--   System Design
-
-------------------------------------------------------------------------
-
-## 📌 Featured Projects
-
--   🚀 AI-powered applications
--   💰 Budget & Finance platforms
--   🩺 Healthcare solutions
--   🌐 Interactive web platforms
--   📱 Cross-platform mobile apps
-
-------------------------------------------------------------------------
-
-## 📫 Connect with Me
-
--   💼 LinkedIn: https://linkedin.com/in/oleksandr-barskyi
--   🌐 Portfolio: https://about-me-alpha-henna.vercel.app
--   📧 Email: oleksandr.umka.barskyi@gmail.com
-
-------------------------------------------------------------------------
-
-## ⚡ Motto
-
-> Build software that creates value, not just code.
+Open to full-time remote and long-term contract roles with US and Canadian teams.
