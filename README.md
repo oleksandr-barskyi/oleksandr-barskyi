@@ -11,7 +11,7 @@ day, as an independent contractor. No visa sponsorship needed.
 **Currently**
 
 - Building React and React Native finance workflows: onboarding, transactions, subscriptions, notifications
-- PhD candidate in Computer Science, formal verification with dependent types
+- Contributing upstream where I find real bugs: [supabase-js #2624](https://github.com/supabase/supabase-js/pull/2624)
 
 **Stack I reach for**
 
